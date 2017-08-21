@@ -14,7 +14,7 @@ categories: jekyll update
 * 执行 `source ~/.bash_profile`。
 * 重启terminal, 执行`echo $PATH`查看添加结果，不同的目录会以冒号`：`分隔，如下：
 ``` shell
-  $ [liuyang] [~] $ echo $PATH
+  $ [liuyang625] [~] $ echo $PATH
   /opt/subversion/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/liuyang108/.rvm/bin:/Users/liuyang108/.rvm/bin:/Users/liuyang108/Desktop/Myshell
 
 ```
